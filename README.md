@@ -16,7 +16,7 @@ A C-based ray tracer with multithreading, reflection, and material support.
 👥 Built in collaboration with [Daniel Xifeng](https://github.com/danielxfeng)
 
 📡 [**IRC Server**](https://github.com/juusokasperi/ft_irc)  
-Non-blocking IRC server in C++98 supporting core commands and multiple clients.  
+Non-blocking IRC server in C++ supporting core commands and multiple clients.  
 👥 With [Juuso Rinta](https://github.com/juusokasperi) & [Heidi Enbuska](https://github.com/mochoteimoso)
 
 🌀 [**Minishell**](https://github.com/your-username/minishell)  
