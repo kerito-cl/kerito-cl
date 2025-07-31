@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm Matías Quero :D
 
-I'm a former professional musician exploring the world of programming.  
-I've been learning systems programming in C/C++ and recently started diving into web development using React and Express.  
-I’m always curious to understand how things work under the hood — whether it’s a shell, a server, or a frontend app.
+I'm a student at **Hive Helsinki**, where we've been tackling a range of hands-on projects — from building our own C libraries to working on graphics, system-level programming, and server development.  
+Along the way, I’ve also explored JavaScript and Python in personal side projects, experimenting with web apps and tools outside the curriculum.
 
 ---
 
