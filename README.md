@@ -1,4 +1,4 @@
-## 👋 Hi, I'm @kerocl
+## 👋 Hi, I'm Matías Quero :D
 
 I'm a former professional musician exploring the world of programming.  
 I've been learning systems programming in C/C++ and recently started diving into web development using React and Express.  
