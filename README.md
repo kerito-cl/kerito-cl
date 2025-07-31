@@ -1,52 +1,41 @@
 ## 👋 Hi, I'm Matías Quero :D
 
-I'm a student at **Hive Helsinki**, where we've been tackling a range of hands-on projects — from building our own C libraries to working on graphics, system-level programming, and server development.  
-Along the way, I’ve also explored JavaScript and Python in personal side projects, experimenting with web apps and tools outside the curriculum.
+I'm a student at **Hive Helsinki**, where we've been building low-level projects in C and C++, including our own libraries, graphics renderers, and network servers.  
+Outside of school, I’ve also explored JavaScript and Python through small web apps and tools.  
+Before tech, I was a **professional musician** — and I still see rhythm, structure, and creativity as essential in writing clean, thoughtful code.
 
 ---
 
-### 🚧 What I'm Learning
-- Building reliable and efficient programs in **C/C++**
-- Understanding how web apps work through **React**, **Express**, and **MongoDB**
-- Exploring concepts like multithreading, sockets, and rendering
-
----
-
-### 🌱 Projects I've worked on
+### 🧠 Projects
 
 🛎️ [**Hotel Booking**](https://github.com/kerito-cl/hotel-booking)  
-A learning project where I built a basic hotel booking platform using the MERN stack.  
-Includes login/signup, hotel search, and a simple dashboard.  
-This was my first full-stack project with a decent grasp of how frontend and backend connect.
+A MERN stack project for hotel search and booking with authentication and a user dashboard.
 
 🧪 [**Mini RayTracing**](https://github.com/kerito-cl/Ray_Tracing)  
-A small ray tracer written in C with multithreading support.  
-Simulates light, reflection, and materials to render basic 3D scenes.
+A C-based ray tracer with multithreading, reflection, and material support.  
 👥 Built in collaboration with [Daniel Xifeng](https://github.com/danielxfeng)
 
-
 📡 [**IRC Server**](https://github.com/juusokasperi/ft_irc)  
-A simplified IRC server written in C++98.  
-It handles multiple clients using non-blocking sockets and supports core IRC commands.
-👥 Created together with [Juuso Rinta](https://github.com/juusokasperi) and [Heidi Enbuska](https://github.com/mochoteimoso)
-
+Non-blocking IRC server in C++98 supporting core commands and multiple clients.  
+👥 With [Juuso Rinta](https://github.com/juusokasperi) & [Heidi Enbuska](https://github.com/mochoteimoso)
 
 🌀 [**Minishell**](https://github.com/your-username/minishell)  
-A basic shell clone in C.  
-Handles redirections, pipes, environment variables, and built-in commands.
+Bash-style shell in C with pipes, redirections, and builtins.  
 👥 Developed with [Ipersids](https://github.com/ipersids)
 
-
 ---
 
-### 🛠️ Tech I’ve been working with
+### 🛠️ Tools & Languages
 
 - **Languages:** C, C++, JavaScript, Python
-- **Web stack:** React, Express, Node.js, MongoDB *(still learning!)*
+- **Web stack:** React, Express, Node.js, MongoDB *(still learning)*
+- **Concepts:** Multithreading, sockets, rendering, REST APIs
 - **Tools:** Git, Docker, Tailwind, Vite
-- **Concepts:** System programming, socket communication, multithreading, REST APIs
 
 ---
+
+Thanks for visiting!
+
 
 ### 🎶 Fun fact
 
