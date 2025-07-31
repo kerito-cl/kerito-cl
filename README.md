@@ -35,11 +35,3 @@ Bash-style shell in C with pipes, redirections, and builtins.
 ---
 
 Thanks for visiting!
-
-
-### 🎶 Fun fact
-
-Before all this, I worked as a **professional musician** — and now I enjoy translating creative thinking into code.  
-I still believe rhythm, structure, and harmony apply to good software too.
-
-Thanks for stopping by!
