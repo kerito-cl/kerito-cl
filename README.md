@@ -8,9 +8,6 @@ Before tech, I was a **professional musician** — and I still see rhythm, struc
 
 ### 🧠 Projects
 
-🛎️ [**Hotel Booking**](https://github.com/kerito-cl/hotel-booking)  
-A MERN stack project for hotel search and booking with authentication and a user dashboard.
-
 🧪 [**Mini RayTracing**](https://github.com/kerito-cl/Ray_Tracing)  
 A C-based ray tracer with multithreading, reflection, and material support.  
 👥 Built in collaboration with [Daniel Xifeng](https://github.com/danielxfeng)
