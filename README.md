@@ -16,7 +16,7 @@ A C-based ray tracer with multithreading, reflection, and material support.
 Non-blocking IRC server in C++ supporting core commands and multiple clients.  
 👥 With [Juuso Rinta](https://github.com/juusokasperi) & [Heidi Enbuska](https://github.com/mochoteimoso)
 
-🌀 [**Minishell**](https://github.com/your-username/minishell)  
+🌀 [**Minishell**](https://github.com/kerito-cl/minishell)  
 Bash-style shell in C with pipes, redirections, and builtins.  
 👥 Developed with [Ipersids](https://github.com/ipersids)
 
