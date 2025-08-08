@@ -30,9 +30,9 @@ Bash-style shell in C with pipes, redirections, and builtins.
 ### 🛠️ Tools & Languages
 
 - **Languages:** C, C++, JavaScript, Python
-- **Web stack:** React, Express, Node.js, MongoDB *(still learning)*
+- **Web stack:** React, Express, Node.js, MongoDB
 - **Concepts:** Multithreading, sockets, rendering, REST APIs
-- **Tools:** Git, Docker, Tailwind, Vite
+- **Tools:** Git, Docker, Tailwind.
 
 ---
 
