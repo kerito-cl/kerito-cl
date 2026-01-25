@@ -8,10 +8,6 @@ Before tech, I was a **professional musician** — and I still see rhythm, struc
 
 ### 🧠 Projects
 
-🎨 [**Tattoo Booking App**](https://tattoo-app-frontend.vercel.app/)  
-A MERN stack app for booking tattoo artists worldwide.  
-Register as a studio, add artists via the dashboard, and book appointments with ease. 
-(In Progress...)
 
 🧪 [**Mini RayTracing**](https://github.com/kerito-cl/Ray_Tracing)  
 A C-based ray tracer with multithreading, reflection, and material support.  
